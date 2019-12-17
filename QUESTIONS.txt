@@ -1,0 +1,52 @@
+1.
+Create a class customer for a bank. Use Inheritance, construction for base and derived class. (Use default arguments, super keyword).Implement the methods Deposit (), Withdraw (), and Get_Balance() to operate on account.
+
+2.
+Write a program in Java to display the names and roll numbers of students. Initialize respective array variables of students. Handle Array Index Out Of Bounds Exception to avoid illegal termination of program.
+
+3.
+a) Write a sample program using Regex Expression for single occurrence of a String?
+b) Write a sample program using Regex Expression for multiple occurrence of a String?
+
+4.
+Write a simple Java bean program to display the employee details.First Name, Last name, ID and Location.
+
+5.
+Write a Java Program to implement the Comparator using TreeSet class of Java respectively and perform sorting operations on employee name and salary.
+
+6.
+Write a program to copy the contents of two files in to one file.
+
+7.
+Write a Swing program that inputs three floating point numbers from the user and displays sum ,average and largest of these three numbers.
+
+8.
+Write a Java program for Deadlock Appearance.
+
+9.
+Swing program to Create a login screen with validation to display the welcome page.
+
+10.
+Create a Swing that is having a List View to select the city, Text box to enter the name, phone number. Radio button to choose the gender and check box to choose hobbies. Create an alert to display the selections made by the user.
+
+11.
+Write a Java program to perform the following operations in a Random Access File (assume three fields). 1. Insert a record 2. Display a record
+
+12.
+Create a JDBC program to perform the following operations on a table :
+Accounts.( Account Number, Name and Balance). 1. Insert a record 2. Delete a record 3. Display All records using SQL methods.
+
+13.
+Write a JDBC program to perform the following operations on a table Student (USN, NAME) .i) Insert a record ii) Update a Record iii) Display all records. Use scrollable methods.
+
+14.
+Create a socket program using TCP sockets to send message between client and Server.
+
+15.
+Create a socket program using UDP sockets to send message between client and server.
+
+16.
+Build a Java Program for password validation using Servlets.
+
+17.
+Design a form using html and JSP which contains 2 textboxes and a submit button, to read 2 numbers and perform addition, division and multiplication and to display the result using GET or POST method.
